@@ -5,7 +5,7 @@ Code release for ["Progressive Adversarial Networks for Fine-Grained Domain Adap
 ## Prerequisites:
 
 * Python3
-* PyTorch == 0.4.0/0.4.1 (with suitable CUDA and CuDNN version)
+* PyTorch == 0.4.1 (with suitable CUDA and CuDNN version)
 * torchvision >= 0.2.1
 
 ## Dataset:
@@ -26,7 +26,7 @@ If you use this code for your research, please consider citing:
 @inproceedings{PAN_20,
   title={Progressive Adversarial Networks for Fine-Grained Domain Adaptation},  
   author={Wang, Sinan and Chen, Xinyang and Wang, Yunbo and Long, Mingsheng and Wang, Jianmin}, 
-  booktitle={ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  booktitle={The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
   pages={9213-9222}, 
   year={2020} 
 }

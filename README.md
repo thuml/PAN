@@ -12,6 +12,10 @@ Code release for ["Progressive Adversarial Networks for Fine-Grained Domain Adap
 
 You need to modify the path of the image in every ".txt" in "./dataset_list".
 
+The sub-dataset CUB-200-Paintings of CUB-Paintings is provided in the following Google Drive links:
+https://drive.google.com/file/d/1G327KsD93eyGTjMmByuVy9sk4tlEOyK3/view?usp=sharing
+
+
 ## Training on one dataset:
 
 You can use the following commands to the tasks:
